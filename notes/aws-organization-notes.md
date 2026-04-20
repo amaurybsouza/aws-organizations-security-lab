@@ -15,7 +15,7 @@ With Organizations, you can consolidate your current accounts under a single org
 ## AWS Organizations Architecture
 The following diagram shows a basic organization that consists of seven accounts organized into four OUs under the root. The organization also has a few policies that are applied to OUs.
 
-![alt text](image-1.png)
+![aws-org-architecture](https://github.com/amaurybsouza/aws-organizations-security-lab/blob/main/notes/images/image-1.png)
 
 - **root**: The root account is the central point of control and management for the entire organization. It is the top-level entity of the organization and defines any resources (accounts and OUs) associated with the organization.
 - **Policies**: in Organizations provide granular control over actions, resources, and services, helping create a secure and well-managed AWS environment for the entire organization.
