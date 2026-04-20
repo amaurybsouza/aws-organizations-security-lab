@@ -17,5 +17,6 @@ The following diagram shows a basic organization that consists of seven accounts
 
 ![alt text](image-1.png)
 
-- root: The root account is the central point of control and management for the entire organization. It is the top-level entity of the organization and defines any resources (accounts and OUs) associated with the organization.
+- **root**: The root account is the central point of control and management for the entire organization. It is the top-level entity of the organization and defines any resources (accounts and OUs) associated with the organization.
+- **Policies**: in Organizations provide granular control over actions, resources, and services, helping create a secure and well-managed AWS environment for the entire organization.
 
