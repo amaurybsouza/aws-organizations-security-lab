@@ -33,7 +33,7 @@ Understand how to design and secure multi-account AWS environments using AWS Org
 - Created SCP examples to restrict actions
 - Simulated governance scenarios
 
-´´´json
+```json
 # Example SCP: Deny public S3
 
 {
@@ -46,7 +46,7 @@ Understand how to design and secure multi-account AWS environments using AWS Org
     }
   ]
 }
-´´´
+```
 
 ---
 
